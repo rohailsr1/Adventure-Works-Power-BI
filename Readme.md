@@ -70,8 +70,8 @@ The analysis is based on the Adventure Works relational database, structured in 
 ---
 
 ### 🔬 Product Drill-Through
-![Drill Through 1](Images/Product%20Drill%20Through%201.png)
-![Product Drill Through 2](Images/Product_Drill_Through_2.png)
+![Drill Through 1](Images/product_drill_through.png)
+![Product Drill Through 2](Images/product_drill_through_2.png)
 * Capability to drill into specific products to see individual performance metrics and historical trends.
 
 ---
