@@ -43,16 +43,16 @@ The analysis is based on the Adventure Works relational database, structured in 
 # 🔍 Key Insights
 
 ### 🛒 Executive Summary & Trends
-![Executive Overview](images/Overview%202.png)
+![Executive Overview](Images/Overview%202.png)
 * Monitoring revenue and profit trends over time to identify seasonal peaks and growth patterns.
-![Revenue Trends](images/Overview%2014.png)
+![Revenue Trends](Images/Overview%2014.png)
 
 📌 *Insight: Specific time periods show significant spikes in sales, suggesting high-impact seasonal promotions.*
 
 ---
 
 ### 📦 Product & Returns Analysis
-![Product Analysis](images/Products%20.png)
+![Product Analysis](Images/Products%20.png)
 * Detailed breakdown of revenue by product category (Bikes, Components, Clothing, Accessories).
 * Identification of top-performing products and those with high return rates.
 
@@ -61,7 +61,7 @@ The analysis is based on the Adventure Works relational database, structured in 
 ---
 
 ### 👥 Customer Segmentation
-![Customer Analysis](images/Customers.png)
+![Customer Analysis](Images/Customers.png)
 * Analysis of customer income levels, occupation, and purchasing frequency.
 * Identification of high-value customer profiles to help target marketing efforts.
 
@@ -70,14 +70,14 @@ The analysis is based on the Adventure Works relational database, structured in 
 ---
 
 ### 🔬 Product Drill-Through
-![Drill Through 1](images/Product%20Drill%20Through%201.png)
-![Product Drill Through 2](images/Product_Drill_Through_2.png)
+![Drill Through 1](Images/Product%20Drill%20Through%201.png)
+![Product Drill Through 2](Images/Product_Drill_Through_2.png)
 * Capability to drill into specific products to see individual performance metrics and historical trends.
 
 ---
 
 ### 💡 Recommendations
-![Recommendations](images/Recommendations.png)
+![Recommendations](Images/Recommendations.png)
 * Utilizing AI-driven visuals to identify key influencers and provide data-backed recommendations for business growth.
 
 ---
