@@ -45,6 +45,7 @@ The analysis is based on the Adventure Works relational database, structured in 
 ### 🛒 Executive Summary & Trends
 ![Executive Overview](Images/Overview%202.png)
 * Monitoring revenue and profit trends over time to identify seasonal peaks and growth patterns.
+
 ![Revenue Trends](Images/Overview%2014.png)
 
 📌 *Insight: Specific time periods show significant spikes in sales, suggesting high-impact seasonal promotions.*
