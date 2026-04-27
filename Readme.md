@@ -14,7 +14,7 @@ This project features a comprehensive **Business Intelligence dashboard** for Ad
 
 # 📷 Dashboard Preview
 
-![Dashboard Home](images/Home.png)
+![Dashboard Home](Images/Home.png)
 
 *Interactive Power BI dashboard showcasing executive overviews, product performance, and customer insights.*
 
